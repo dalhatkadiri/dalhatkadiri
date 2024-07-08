@@ -6,4 +6,4 @@
 💾 Database Management: SQL Server, MySQL, MongoDB
 🔄 ETL Processes: Data cleaning, transformation, loading
 
-👩🏾‍💻 Connect with me on LinkedIn: http://linkedin.com
+👩🏾‍💻 Connect with me on LinkedIn: www.linkedin.com/in/dalhat-kadiri-952508317
